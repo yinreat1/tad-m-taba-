@@ -1,0 +1,8 @@
+{
+  "name": "Tadım Tabağı",
+  "description": "Gerçek ürün tadımlarını, fotoğrafları, market bilgilerini ve Tadımmetre puanlarını yöneten ürün inceleme platformu.",
+  "requestFramePermissions": [
+    "CAMERA"
+  ],
+  "majorCapabilities": []
+}
